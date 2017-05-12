@@ -1,6 +1,9 @@
 ## HTML5_keyBoard
 
-A demo for developing html5 page keyboard, using html5 js and css3， made by axl234
+A demo for developing html5 page keyboard, using html5、js and css3， made by axl234
+
+
+Use the div simulate input box to avoid the phone native keyboard pops up,the keyboard uses div simulation too, using JS control click event , cursor flash using CSS3 simulation；
 
 
 
